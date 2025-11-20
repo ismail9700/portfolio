@@ -1,3 +1,3 @@
 Personal portfolio
 
-This is my new [Portfolio](https://ismail-portfolio.framer.ai/)
+This is the one i currently use : https://ismail-portfolio.framer.ai/
